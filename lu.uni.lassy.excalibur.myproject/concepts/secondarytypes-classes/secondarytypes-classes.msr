@@ -1,0 +1,22 @@
+/*
+* @author benoit.ries
+* @date Fri Jul 22 14:19:29 CEST 2016
+*/
+
+package lu.uni.lassy.excalibur.myproject.concepts.secondarytypes.classes {
+
+import lu.uni.lassy.messir.libraries.calendar
+import lu.uni.lassy.messir.libraries.collections
+import lu.uni.lassy.messir.libraries.math
+import lu.uni.lassy.messir.libraries.primitives
+import lu.uni.lassy.messir.libraries.string
+
+
+
+Concept Model {
+	
+	Secondary Types {
+	
+	}
+}
+}
