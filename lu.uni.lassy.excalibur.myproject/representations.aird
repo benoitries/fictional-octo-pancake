@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description" xmi:id="_ig1roFAGEearvo820EcMyQ" selectedViews="_ikI3QFAGEearvo820EcMyQ" version="10.1.0.201509162000">
-  <referencedAnalysis xmi:type="viewpoint:DAnalysis" href="representations1.aird#_i2UzcFAGEearvo820EcMyQ"/>
-  <referencedAnalysis xmi:type="viewpoint:DAnalysis" href="representations2.aird#_i2xfYFAGEearvo820EcMyQ"/>
-  <referencedAnalysis xmi:type="viewpoint:DAnalysis" href="representations3.aird#_i3HdoFAGEearvo820EcMyQ"/>
-  <referencedAnalysis xmi:type="viewpoint:DAnalysis" href="representations4.aird#_i3f4JVAGEearvo820EcMyQ"/>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description" xmi:id="_n6jHsGnjEeaF659TEANZww" selectedViews="_oBBjIGnjEeaF659TEANZww" version="10.1.0.201509162000">
+  <referencedAnalysis xmi:type="viewpoint:DAnalysis" href="representations1.aird#_oQlpIGnjEeaF659TEANZww"/>
+  <referencedAnalysis xmi:type="viewpoint:DAnalysis" href="representations2.aird#_oRGmgGnjEeaF659TEANZww"/>
+  <referencedAnalysis xmi:type="viewpoint:DAnalysis" href="representations3.aird#_oR4poGnjEeaF659TEANZww"/>
+  <referencedAnalysis xmi:type="viewpoint:DAnalysis" href="representations4.aird#_oSr64GnjEeaF659TEANZww"/>
   <semanticResources>concepts/primarytypes-associations/primarytypes-associations.msr</semanticResources>
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/library/calendar.msr</semanticResources>
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/library/collections.msr</semanticResources>
@@ -17,6 +17,8 @@
   <semanticResources>environment/environment.msr</semanticResources>
   <semanticResources>concepts/secondarytypes-datatypes/secondarytypes-datatypes.msr</semanticResources>
   <semanticResources>.views.msr</semanticResources>
+  <semanticResources>tests/tests.msr</semanticResources>
+  <semanticResources>usecases/usecases.msr</semanticResources>
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/.views.msr</semanticResources>
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/documentation/View-calendar-local-view-01.msrd</semanticResources>
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/documentation/View-math-local-view-01.msrd</semanticResources>
@@ -228,9 +230,7 @@
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/library/documentation/PrimaryType-Primitive-ptInteger.msrd</semanticResources>
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/library/documentation/PrimaryType-Primitive-ptReal.msrd</semanticResources>
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/library/documentation/PrimaryType-Primitive-ptString.msrd</semanticResources>
-  <semanticResources>tests/tests.msr</semanticResources>
-  <semanticResources>usecases/usecases.msr</semanticResources>
-  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_ikI3QFAGEearvo820EcMyQ">
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_oBBjIGnjEeaF659TEANZww">
     <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/lu.uni.lassy.excalibur.ui.viewer/description/excalibur_models.odesign#//@ownedViewpoints[name='msr-viewpoint']"/>
   </ownedViews>
 </viewpoint:DAnalysis>
