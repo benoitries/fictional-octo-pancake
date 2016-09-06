@@ -1,0 +1,22 @@
+/*
+* @author benoit.ries
+* @date Tue Sep 06 11:49:18 CEST 2016
+*/
+
+package lu.uni.lassy.excalibur.myproject.concepts.primarytypes.datatypes {
+
+import lu.uni.lassy.messir.libraries.calendar
+import lu.uni.lassy.messir.libraries.collections
+import lu.uni.lassy.messir.libraries.math
+import lu.uni.lassy.messir.libraries.primitives
+import lu.uni.lassy.messir.libraries.string
+
+
+
+Concept Model {
+
+	Primary Types {
+   
+	}
+}
+}
