@@ -33,6 +33,7 @@ Concept Model {
 		class className2 role rn2 cardinality [1..*] {
 			
 		}
+		//and a non-conflicting modif 
 		//a comment
 		//local comment
 		//another comment
