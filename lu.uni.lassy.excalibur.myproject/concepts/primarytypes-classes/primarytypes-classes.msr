@@ -26,7 +26,7 @@ Concept Model {
 		}
 		
 
-		class aNewClassWith role roleName cardinality [1..*] {
+		class aNewClassWithAWrongName role roleName cardinality [1..*] {
 			attribute name: ptString
 		}
 		
