@@ -24,7 +24,8 @@ Concept Model {
 			attribute vpStarted: ptBoolean
 
 			operation init(AvpStarted:ptBoolean): ptBoolean
-		}	
+			operation aNewOperation(): ptBoolean
+		}
 
 	}
 }
