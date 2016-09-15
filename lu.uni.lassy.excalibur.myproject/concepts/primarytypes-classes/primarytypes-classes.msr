@@ -24,6 +24,7 @@ Concept Model {
 
 			operation init(AvpStarted:ptBoolean): ptBoolean
 		}
+		
 
 		class aNewClass role roleName cardinality [1..*] {
 			attribute name: ptString
