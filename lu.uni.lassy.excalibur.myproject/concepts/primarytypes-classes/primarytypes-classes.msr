@@ -25,11 +25,7 @@ Concept Model {
 			operation init(AvpStarted:ptBoolean): ptBoolean
 		}
 
-<<<<<<< HEAD
-		class aNewClassLocal role roleName cardinality [1..*] {
-=======
-		class aNewClassRemote role roleName cardinality [1..*] {
->>>>>>> branch 'master' of https://benoitries@github.com/benoitries/fictional-octo-pancake.git
+		class aNewClass role roleName cardinality [1..*] {
 			attribute name: ptString
 		}
 	}
