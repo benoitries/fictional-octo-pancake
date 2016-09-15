@@ -27,7 +27,7 @@ Concept Model {
 		}
 
 		class aNewClass role roleName cardinality [1..*] {
-			
+			attribute name: ptString
 		}
 	}
 }
