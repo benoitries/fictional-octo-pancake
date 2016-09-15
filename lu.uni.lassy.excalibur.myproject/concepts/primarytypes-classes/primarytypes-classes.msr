@@ -23,7 +23,6 @@ Concept Model {
 			attribute vpStarted: ptBoolean
 
 			operation init(AvpStarted:ptBoolean): ptBoolean
-			operation aNewOperation(): ptBoolean
 		}
 
 		class aNewClass role roleName cardinality [1..*] {
