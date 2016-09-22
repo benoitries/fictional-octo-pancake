@@ -1,10 +1,10 @@
 /*
 @author benoit.ries
-@date Thu Sep 22 16:54:40 CEST 2016
+@date Thu Sep 22 16:57:00 CEST 2016
 */
 
 
-@@view my new view 24
+@@view view25
 @model Concept 
 @level Global
 @sublevel Primary Class
