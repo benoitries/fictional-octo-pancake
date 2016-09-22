@@ -1,0 +1,13 @@
+/*
+@author benoit.ries
+@date Thu Sep 22 16:56:35 CEST 2016
+*/
+
+
+@@view view15
+@model Concept 
+@level Global
+@sublevel Primary Class
+@number 6
+@description ""
+@caption ""
