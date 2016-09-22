@@ -233,6 +233,7 @@
   <semanticResources>documentation/View-view21.msrd</semanticResources>
   <semanticResources>documentation/View-view12.msrd</semanticResources>
   <semanticResources>documentation/View-view13.msrd</semanticResources>
+  <semanticResources>documentation/View-view23.msrd</semanticResources>
   <ownedViews xmi:type="viewpoint:DView" xmi:id="_LrgDIHQXEeaDM8liQNb8uQ">
     <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/lu.uni.lassy.excalibur.ui.viewer/description/excalibur_models.odesign#//@ownedViewpoints[name='msr-viewpoint']"/>
     <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_5CCEoICuEeaGH57wyWEEtw" name="view1">
