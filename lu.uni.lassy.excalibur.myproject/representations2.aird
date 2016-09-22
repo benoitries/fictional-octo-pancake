@@ -227,6 +227,7 @@
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/library/documentation/PrimaryType-Primitive-ptReal.msrd</semanticResources>
   <semanticResources>platform:/resource/lu.uni.lassy.excalibur.standard.specification.libraries/library/documentation/PrimaryType-Primitive-ptString.msrd</semanticResources>
   <semanticResources>documentation/View-cm-view1.msrd</semanticResources>
+  <semanticResources>documentation/View-view2.msrd</semanticResources>
   <ownedViews xmi:type="viewpoint:DView" xmi:id="_Lr654HQXEeaDM8liQNb8uQ">
     <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/lu.uni.lassy.excalibur.ui.viewer/description/excalibur_models.odesign#//@ownedViewpoints[name='msr-viewpoint']"/>
     <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_gqoqUHQpEeaG9tIxBRfFNw" name="cm-view1654">
@@ -284,6 +285,20 @@
       <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_gqoqU3QpEeaG9tIxBRfFNw"/>
       <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/lu.uni.lassy.excalibur.ui.viewer/description/excalibur_models.odesign#//@ownedViewpoints[name='msr-viewpoint']/@ownedRepresentations[name='Messir%20Diagram']/@defaultLayer"/>
       <target xmi:type="messir:PackageDeclaration" href="concepts/primarytypes-classes/primarytypes-classes.msr#lu.uni.lassy.excalibur.myproject.concepts.primarytypes.classes"/>
+    </ownedRepresentations>
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_1rFW8ICuEeawsOhIVaNStQ" name="view2">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_1rFW8YCuEeawsOhIVaNStQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+        <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_1rFW8oCuEeawsOhIVaNStQ"/>
+      </ownedAnnotationEntries>
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_1rIaQICuEeawsOhIVaNStQ" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_1rIaQYCuEeawsOhIVaNStQ" type="Sirius" element="_1rFW8ICuEeawsOhIVaNStQ" measurementUnit="Pixel">
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_1rIaQoCuEeawsOhIVaNStQ"/>
+        </data>
+      </ownedAnnotationEntries>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/lu.uni.lassy.excalibur.ui.viewer/description/excalibur_models.odesign#//@ownedViewpoints[name='msr-viewpoint']/@ownedRepresentations[name='Messir%20Diagram']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_1rFW84CuEeawsOhIVaNStQ"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/lu.uni.lassy.excalibur.ui.viewer/description/excalibur_models.odesign#//@ownedViewpoints[name='msr-viewpoint']/@ownedRepresentations[name='Messir%20Diagram']/@defaultLayer"/>
+      <target xmi:type="messir:PackageDeclaration" href=".views.msr#uuid8573da6f4a3849fc84d98e813e60a301"/>
     </ownedRepresentations>
   </ownedViews>
   <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_0Zsg0HQnEeaGLbd7JdvT4A">
