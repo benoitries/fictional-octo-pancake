@@ -1,0 +1,28 @@
+/*
+* @author benoit.ries
+* @date Wed Oct 05 21:34:11 MSK 2016
+*/
+
+package lu.uni.lassy.excalibur.myhelloworld.environment {
+
+import lu.uni.lassy.messir.libraries.calendar
+import lu.uni.lassy.messir.libraries.math
+import lu.uni.lassy.messir.libraries.primitives
+import lu.uni.lassy.messir.libraries.string
+
+
+
+Environment Model {
+ 
+ actor actYou role rnactYou cardinality [1..*] {
+ 
+ 	input interface inactYou {
+ 		operation ieHelloWorld() : ptBoolean
+ 	}
+ 	output interface outactYou {
+ 		operation oeHelloWorld() : ptBoolean
+ 	}
+ }
+  
+}
+}
